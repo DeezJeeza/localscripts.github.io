@@ -273,4 +273,15 @@
         "lastEditedByImage": "assets/unverified.png",
         "warning": true
     }
-]
+ {
+        "name": "Flora",
+        "pros": ["Free", "Has a Paid Plan(94% UNC~)", "84% UNC~"],
+        "neutral": ["Level 3", "Frequent crashes"," Has a Keysystem"],
+        "cons": [],
+        "link": "https://getflora.xyz",
+        "buttonText": "Prices Not Set Yet.",
+        "types": ["windows"],
+        "lastEditedBy": "voxlis.NET",
+        "lastEditedByImage": "assets/verified.png"
+    },
+  
